@@ -1,2 +1,2 @@
 # ServiceYABS
-Couche service de Yet Another BookStore, librairie en ligne
+Couche Service de Yet Another BookStore, librairie en ligne
